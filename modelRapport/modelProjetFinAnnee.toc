@@ -1,0 +1,34 @@
+\babel@toc {french}{}\relax 
+\contentsline {chapter}{\color {green!30!blue}{Sommaire}}{3}{chapter*.1}%
+\contentsline {chapter}{Dédicace}{4}{chapter*.2}%
+\contentsline {chapter}{Remerciements}{5}{chapter*.3}%
+\contentsline {chapter}{Résume}{7}{chapter*.4}%
+\contentsline {chapter}{Abstract}{8}{chapter*.5}%
+\contentsline {chapter}{Introduction}{9}{chapter*.6}%
+\contentsline {chapter}{\numberline {1}\color {green!30!blue}{La quantification canonique}}{11}{chapter.1}%
+\contentsline {chapter}{La quantifiacation canonique}{11}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Introduction}{11}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Rappel des règles de quantifications canoniques}{11}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Quantification selon Dirac}{12}{section.1.3}%
+\contentsline {section}{\numberline {1.4}La seconde quantification}{14}{section.1.4}%
+\contentsline {subsection}{\numberline {1.4.1}Introduction}{14}{subsection.1.4.1}%
+\contentsline {subsection}{\numberline {1.4.2}Bosons}{14}{subsection.1.4.2}%
+\contentsline {subsection}{\numberline {1.4.3}Fermions}{21}{subsection.1.4.3}%
+\contentsline {chapter}{\numberline {2}La théorie de Maxwell modifiée(ModMax)}{24}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Introduction}{24}{section.2.1}%
+\contentsline {section}{\numberline {2.2}La densité hamiltonienne de ModMax}{24}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}La densité lagrangienne de ModMax}{30}{subsection.2.2.1}%
+\contentsline {chapter}{\numberline {3} Oscillateur déformé $\sqrt {T{\overline {T}}}$ inspiré de ModMax}{34}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Introduction}{34}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Oscillateur non linéaire issu d'une déformation $\sqrt {T{\overline {T}}}$}{34}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Déformation $\sqrt {T{\overline {T}}}$ dans le formalisme lagrangien}{35}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Déformations $\sqrt {T{\overline {T}}}$ dans le formalisme hamiltonien}{39}{subsection.3.2.2}%
+\contentsline {section}{\numberline {3.3}Intégration du système hamiltonien}{44}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Transformation de Legendre}{48}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Intégration du système lagrangien}{50}{section.3.5}%
+\contentsline {section}{\numberline {3.6}Une carte de déformation}{54}{section.3.6}%
+\contentsline {section}{\numberline {3.7}Quelques propriétés dynamiques du système}{56}{section.3.7}%
+\contentsline {subsection}{\numberline {3.7.1}Transfert d'énergie}{56}{subsection.3.7.1}%
+\contentsline {subsection}{\numberline {3.7.2}Angle de Hannay}{58}{subsection.3.7.2}%
+\contentsline {chapter}{Conclusions}{60}{chapter*.7}%
+\contentsline {chapter}{Table des matières}{65}{chapter*.8}%
